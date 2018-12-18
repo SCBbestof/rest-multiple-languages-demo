@@ -1,6 +1,0 @@
-server:
-  port: 8081
-
-services:
-  phoenixer: http://localhost:8082
-  pyesser: http://localhost:8083
